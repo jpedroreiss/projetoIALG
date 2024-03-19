@@ -1,18 +1,18 @@
-#Projeto em C++
-##Sistemas de Cadastro
+# Projeto em C++
+## Sistemas de Cadastro
 
 ![interface](https://github.com/jpedroreiss/projetoc-/assets/78040348/3882d375-8ddb-4fa7-aba0-8bd761e3a44d)
 
-###1 Introdução
+### 1 Introdução
 
 O código em questão constitui um Sistema de Cadastro de Municípios em Minas
 Gerais, implementado em C++. Ele utiliza estruturas de dados e funcionalidades
 para gerenciar informações sobre diferentes municípios, como identificador, nome,
 população, ano de fundação e mesorregião.
 
-####1.1 Descrição das estruturas utilizadas
+#### 1.1 Descrição das estruturas utilizadas
 
-####1.1.1 Estrutura do Registro
+#### 1.1.1 Estrutura do Registro
 
 O código utiliza o registro municipio para representar as informações de
 cada município. Essa estrutura é composta pelos seguintes campos:
@@ -24,7 +24,7 @@ município.
 • mesoregiao: Sequência de caracteres (char) representando a mesorregião do
 município.
 
-####1.1.2 Funções Principais
+#### 1.1.2 Funções Principais
 
 • interface(): Exibe uma interface gráfica inicial, apresentando opções para o
 usuário.
@@ -45,7 +45,7 @@ informações dos municípios encontrados.
 • main(): Implementa a lógica principal do programa, permitindo ao usuário
 escolher diversas operações como visualizar, ordenar, buscar, inserir, sobrescrever, remover e salvar em outro arquivo CSV.
 
-####1.1.3 Funcionalidades adicionais
+#### 1.1.3 Funcionalidades adicionais
 
 • Lixeira: Municípios removidos podem ser restaurados da "lixeira"por meio
 de uma opção específica, e também pode ser visto quais municípios estão na
@@ -55,34 +55,34 @@ lúdica ao usuário.
 • Salvar em um outro arquivo CSV: É possível salvar em um outro arquivo
 CSV os dados dos municípios.
 
-###2 FUNCIONAMENTO DO CÓDIGO
+### 2 FUNCIONAMENTO DO CÓDIGO
 
-####2.1 Leitura do arquivo CSV
+#### 2.1 Leitura do arquivo CSV
 
 A execução inicia com a leitura de um arquivo CSV denominado "projeto.csv". Esse arquivo contém dados sobre o tamanho do arquivo e dos municípios, como identificador, nome, população, ano de fundação e mesorregião. A leitura é realizada por meio da biblioteca <fstream>.
 
-####2.2Gravação em Arquivo Binário
+#### 2.2Gravação em Arquivo Binário
 
 Os dados lidos do arquivo CSV são, em seguida, gravados em um arquivo
 binário chamado "cidades_binario.dat" por meio da função arquivo_binario().
 
-####2.3Interface Inicial
+#### 2.3Interface Inicial
 
 Após a leitura e gravação inicial, o sistema exibe uma interface gráfica
 para o usuário, apresentando as opções disponíveis.
 
-####2.4 Estrutura Principal (Loop da ’main’)
+#### 2.4 Estrutura Principal (Loop da ’main’)
 
 A execução principal ocorre dentro de um loop que permite ao usuário
 realizar diversas operações, como visualizar, ordenar, buscar, inserir, sobrescrever e remover municípios. Além disso, também tem as opções como a lixeira,
 salvar arquivo em outro CSV, e o quizz. Sendo assim, o loop é controlado pela
 variável reiniciar.
 
-####2.5 Liberação da Memória e Encerramento
+#### 2.5 Liberação da Memória e Encerramento
 
 O código encerra liberando a memória alocada dinamicamente para o vetor de estruturas cidade e retorna 0.
 
-###3 CONCLUSÃO
+### 3 CONCLUSÃO
 
 O projeto proporcionou uma experiência prática valiosa na implementação
 de operações de leitura, escrita, ordenação e manipulação de registros em arquivos binários, reforçando conceitos fundamentais da linguagem C++. Foi bastante
