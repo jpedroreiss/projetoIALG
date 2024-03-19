@@ -1,5 +1,5 @@
 # Projeto em C++
-## Sistemas de Cadastro
+## Sistema de Cadastro de Municípios em Minas Gerais
 
 ![interface](https://github.com/jpedroreiss/projetoc-/assets/78040348/3882d375-8ddb-4fa7-aba0-8bd761e3a44d)
 
