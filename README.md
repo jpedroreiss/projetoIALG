@@ -61,7 +61,7 @@ O código encerra liberando a memória alocada dinamicamente para o vetor de est
 
 ### 3 CONCLUSÃO
 
-O projeto proporcionou uma experiência prática valiosa na implementação de operações de leitura, escrita, ordenação e manipulação de registros em arquivos binários, reforçando conceitos fundamentais da linguagem C++. Foi bastante importante para aprimorar a capacidade de adaptação, criatividade e raciocínio. Além disso, fornecendo uma experiência conjunta de trabalho, destacando a importância do trabalho e raciocínio em equipe para formular melhor o código.
+O projeto proporcionou uma experiência prática valiosa na implementação de operações de leitura, escrita, ordenação e manipulação de registros em arquivos binários, reforçando conceitos fundamentais da linguagem C++. Foi bastante importante para aprimorar a capacidade de adaptação, criatividade e raciocínio. Além disso, forneceu uma experiência conjunta de trabalho, destacando a importância do trabalho e raciocínio em equipe para formular melhor o código.
 
 ![ate mais](https://github.com/jpedroreiss/projeto/assets/78040348/1d487132-f11e-4768-b87f-f77696b3a4de)
 
