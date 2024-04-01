@@ -36,13 +36,14 @@ Essa formatação deixa os tópicos mais destacados e facilita a leitura do cont
 - **Quizz:** Inclui um quiz simples para interação lúdica do usuário.
 - **Salvar em Outro Arquivo CSV:** Possibilidade de salvar os dados dos municípios em outro arquivo CSV.
 
-##   Funcionamento do Código
 
-1. **Leitura do Arquivo CSV:** Inicia com a leitura do arquivo CSV "projeto.csv" contendo dados sobre os municípios.
-2. **Gravação em Arquivo Binário:** Os dados são gravados em um arquivo binário ("cidades_binario.dat").
-3. **Interface Inicial:** Exibe uma interface gráfica com opções para o usuário.
-4. **Estrutura Principal (Loop da 'main'):** Execução principal ocorre dentro de um loop que permite ao usuário realizar diversas operações.
-5. **Liberação de Memória e Encerramento:** Encerra o código liberando a memória alocada e retorna 0.
+ ### Funcionamento do Código
+ 
+ 1. **Leitura do Arquivo CSV:** Inicia com a leitura do arquivo CSV "projeto.csv" contendo dados sobre os municípios.
+ 2. **Gravação em Arquivo Binário:** Os dados são gravados em um arquivo binário ("cidades_binario.dat").
+ 3. **Interface Inicial:** Exibe uma interface gráfica com opções para o usuário.
+ 4. **Estrutura Principal (Loop da 'main'):** Execução principal ocorre dentro de um loop que permite ao usuário realizar diversas operações.
+ 5. **Liberação de Memória e Encerramento:** Encerra o código liberando a memória alocada e retorna 0.
 
 ##  Conclusão
 
