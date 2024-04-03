@@ -8,9 +8,6 @@
 
 Este é um projeto em C++ que implementa um Sistema de Cadastro de Municípios em Minas Gerais. O projeto utiliza estruturas de dados e funcionalidades para gerenciar informações sobre diferentes municípios, incluindo identificador, nome, população, ano de fundação e mesorregião.
 
-> [!IMPORTANT]
-> Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais informações.
-
 ### Estrutura do Registro
 
 - **Identificador:** Inteiro único para cada município.
