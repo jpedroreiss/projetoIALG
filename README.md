@@ -49,6 +49,4 @@ Essa formatação deixa os tópicos mais destacados e facilita a leitura do cont
 
 O projeto proporcionou uma experiência prática valiosa na implementação de operações de leitura, escrita, ordenação e manipulação de registros em arquivos binários, reforçando conceitos fundamentais da linguagem C++. Além disso, destacou a importância do trabalho em equipe para formular melhor o código.
 
-<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jpedroreiss/projetoIALG">
-
 ![Até Mais](https://github.com/jpedroreiss/projeto/assets/78040348/1d487132-f11e-4768-b87f-f77696b3a4de)
